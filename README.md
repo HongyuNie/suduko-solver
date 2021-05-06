@@ -44,7 +44,7 @@ The sudoku problem can be generalized into CSP wherein the values in the cell co
 
 *** External References ***
 
--
+- a library using monad: https://hackage.haskell.org/package/csp
 
 -
 
